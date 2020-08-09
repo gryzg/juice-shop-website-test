@@ -11,4 +11,6 @@ PREREQUISITES
 TO RUN TEST:
 1. Open CMD
 2. Enter cd <Ecommerce> path
-3. Enter python tests/OrderPlacementTest.py
+3. Enter cmd:
+python -m tests.OrderPlacementTest
+
